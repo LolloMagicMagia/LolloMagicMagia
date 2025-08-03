@@ -5,8 +5,7 @@ I hope some of my work will catch your interest! 😊
 
 - 🔭 I’m currently working on deep learning and machine learning projects, with a focus on medical applications.
 - 🌱 I'm a curious learner, currently exploring reinforcement learning and multi-agent systems. I’m also working on a project involving transformers and their effectiveness.
-- 💬 **About me**: I’m a curious and proactive individual who enjoys tackling new challenges. I’m passionate about learning, both in tech and in life. I also love pizza, sushi, and mandolin (like a true Italian!) I’m always open to new experiences, whether it's in development or personal growth. I also like videogames, anime, reading books and playing board games.
-- ⚡ **Fun fact**: I love hiking in the mountains... but I’m not great with high altitudes 😅
+- 💬 **About me**: I’m a curious and proactive individual who enjoys tackling new challenges. I’m passionate about learning, both in tech and in life. I also love pizza, sushi, and mandolin (like a true Italian!) I’m always open to new experiences, whether it's in development or personal growth. I also like video games, anime, reading books, playing board games, and exploring the world.
 
 ```
 Having a good daimon was not about satisfying one's desires,
