@@ -8,6 +8,7 @@ I hope some of my work will catch your interest! 😊
 - 💬 **About me**: I’m a curious and proactive individual who enjoys tackling new challenges. I’m passionate about learning, both in tech and in life. I also love pizza, sushi, and mandolin (like a true Italian!) I’m always open to new experiences, whether it's in development or personal growth. I also like video games, anime, reading books, playing board games, and exploring the world.
 
 ```
-“Passion comes after you put in the hard work to become excellent at something valuable, not before. In other words, what you do for a living is much less important than how you do it.”
+“Passion comes after you put in the hard work to become excellent at something valuable, not before.
+In other words, what you do for a living is much less important than how you do it.”
 — Cal Newport
 ```
